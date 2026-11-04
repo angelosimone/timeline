@@ -1,0 +1,78 @@
+{
+  "config": {
+    "title": "The Leaning Tower of Pisa: 835 years of not falling over",
+    "chart_width": 14.0,
+    "range_color": "#7fb2d9"
+  },
+  "events": [
+    {
+      "date": "1173",
+      "label": "Construction starts.\nSoil: soft. Optimism: high.",
+      "note": "Foundations laid on 9 August 1173, on soft clay and sand; work on the ground floor begins a few days later."
+    },
+    {
+      "date": "1178",
+      "label": "Second floor reached.\nThe tower starts to lean.",
+      "note": "The ground on the south side gives way. Wars with Genoa, Lucca and Florence soon stop the works for almost a century, which lets the soil consolidate and is probably the reason the tower is still standing."
+    },
+    {
+      "date": "1272",
+      "label": "Works resume: upper floors\nbuilt taller on one side",
+      "note": "Giovanni di Simone tries to correct the tilt by making the new floors taller on the low side. The result is a slightly curved tower: the banana is a design feature."
+    },
+    {
+      "date": "1284",
+      "label": "Pisa loses at Meloria.\nPause, again.",
+      "note": "Defeat by the Genoese at the Battle of Meloria halts construction once more."
+    },
+    {
+      "date": "1319",
+      "label": "Seventh floor\ncompleted"
+    },
+    {
+      "date": "1372",
+      "label": "Bell chamber added:\ndone in only 199 years",
+      "note": "Tommaso di Andrea Pisano completes the bell chamber. The bells were later silenced, for fear their vibrations could make things worse."
+    },
+    {
+      "date": "1589-1592",
+      "label": "Galileo (allegedly) drops\ntwo balls from the top",
+      "note": "The story comes from Vincenzo Viviani's biography of Galileo, written in 1654 and published in 1717. Historians doubt the experiment ever took place, at least not from here."
+    },
+    {
+      "date": "1838",
+      "label": "A walkway is dug around\nthe base. Tilt: increases.",
+      "note": "Alessandro Della Gherardesca excavates a walkway (the 'catino') to expose the buried base. Water floods in on the south side and the inclination increases noticeably."
+    },
+    {
+      "date": "1934",
+      "label": "Foundation strengthened\nwith grout. Tilt: increases.",
+      "note": "Engineers drill 361 holes in the foundation and inject 80 tonnes of grout; the tilt jumps by 31 arc seconds. Popular accounts credit Mussolini with ordering the tower straightened."
+    },
+    {
+      "date": "1964",
+      "label": "Italy asks the world for help\n(but please keep the tilt)",
+      "note": "On 27 February 1964 the Italian government requests international help to prevent the collapse, while making clear the lean is to be preserved: it is good for tourism."
+    },
+    {
+      "date": "1990",
+      "label": "Tilt reaches 5.5°.\nClosed to the public.",
+      "note": "The tower is closed on 7 January 1990."
+    },
+    {
+      "date": "1993-2001",
+      "label": "Lead counterweights, then\nsoil gently removed from\nunder the high side",
+      "note": "870 tonnes of lead are placed on the north side from 1993; later, about 70 tonnes of soil are extracted from beneath it. The top moves back by about 45 cm, to where it was in 1838."
+    },
+    {
+      "date": "2001",
+      "label": "Reopened: \"stable for\nat least 300 years\"",
+      "note": "The tower reopens to visitors on 15 December 2001."
+    },
+    {
+      "date": "2008",
+      "label": "It has stopped moving,\nfor the first time ever",
+      "note": "In May 2008 engineers announce that the tower has stopped moving for the first time in its history. Current tilt: about 3.97°."
+    }
+  ]
+}

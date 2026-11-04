@@ -1,0 +1,58 @@
+{
+  "config": {
+    "title": "La trave di Eulero-Bernoulli",
+    "chart_width": 13.0
+  },
+  "events": [
+    {
+      "date": "1490-1499",
+      "label": "Disegni di Leonardo\ndal Codex Madrid I",
+      "note": "Precursore importante: Leonardo annota osservazioni di meccanica e resistenza nei manoscritti del Codex Madrid I, ma non arriva ancora a una teoria completa della trave."
+    },
+    {
+      "date": "1492",
+      "label": "Scoperta dell'America",
+      "note": "Riferimento cronologico esterno: utile solo come ancora temporale per mostrare quanto siano antichi i primi studi di meccanica."
+    },
+    {
+      "date": "1638",
+      "label": "Esperimenti di Galileo",
+      "note": "Galileo studia la resistenza delle aste e la rottura dei corpi solidi: è uno dei primi passi verso una teoria della flessione, anche se con ipotesi ancora non corrette."
+    },
+    {
+      "date": "1705",
+      "label": "Jakob Bernoulli:\ncurvatura proporzionale a M",
+      "note": "Nel suo lavoro finale del 1705 propone che la curvatura della trave deformata sia proporzionale al momento flettente."
+    },
+    {
+      "date": "1742",
+      "label": "Daniel Bernoulli\nsuggerisce a Eulero\nl'approccio energetico",
+      "note": "In una lettera del 1742 Daniel Bernoulli suggerisce a Eulero di trattare la curva elastica tramite un'energia di deformazione."
+    },
+    {
+      "date": "1744",
+      "label": "Eulero: equazione corretta\ndella linea elastica",
+      "note": "Eulero sviluppa matematicamente la teoria della linea elastica e introduce l'energia di deformazione per unità di lunghezza, proporzionale al quadrato della curvatura."
+    },
+    {
+      "date": "1751",
+      "label": "Daniel Bernoulli:\nvibrazioni trasversali\ndelle travi",
+      "note": "La teoria di Bernoulli-Eulero viene applicata anche alle vibrazioni trasversali delle travi."
+    },
+    {
+      "date": "1826",
+      "label": "Navier: teoria corretta\ndella flessione",
+      "note": "Navier sviluppa l'analisi tecnica moderna delle travi, con il calcolo di forze e frecce per diversi vincoli e schemi statici."
+    },
+    {
+      "date": "1855",
+      "label": "de Saint-Venant:\neffetti del taglio\nnella flessione",
+      "note": "I suoi contributi maturi sulla flessione e sulla torsione appartengono soprattutto agli anni Cinquanta dell'Ottocento; qui si colloca il perfezionamento rispetto alla teoria classica."
+    },
+    {
+      "date": "1921",
+      "label": "Trave di Timoshenko\n(include il taglio)",
+      "note": "Data convenzionale della teoria che include la deformabilità a taglio; storicamente, una prima formulazione può essere fatta risalire già al 1916."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "config": {
+    "title": "Dalla legge di Hooke al modulo di Young",
+    "chart_width": 13.0
+  },
+  "events": [
+    {
+      "date": "1660",
+      "label": "Robert Hooke fa risalire la scoperta\ndella legge al 1660",
+      "note": "In \"De Potentia Restitutiva\" (1678), Hooke scrive che erano \"about eighteen years\" da quando aveva scoperto la legge elastica attraverso esperimenti su molle e fili; aggiunge anche di averne stampato due anni prima, alla fine del libro \"A Description of Helioscopes, and Some Other Instruments\", l'anagramma \"ceiiinosssttuu\"."
+    },
+    {
+      "date": "1676",
+      "label": "Hooke pubblica\nl'anagramma\ndella legge",
+      "note": "L'anagramma \"ceiiinosssttuu\" serviva a rivendicare la priorità della scoperta prima della pubblicazione completa."
+    },
+    {
+      "date": "1678",
+      "label": "Hooke pubblica esplicitamente\n\"ut tensio, sic vis\"",
+      "note": "Pubblicazione esplicita del principio 'come l'estensione, così la forza', nucleo storico della legge di Hooke."
+    },
+    {
+      "date": "1727",
+      "label": "Leonhard Euler elabora una prima\ntrattazione meccanico-geometrica\ndell'elasticità",
+      "note": "Sebbene la relazione lineare tra forza applicata e allungamento fosse già stata enunciata da Hooke per oggetti specifici, il contributo di Euler costituisce un importante antecedente della successiva idea di modulo elastico. Nel manoscritto \"De oscillationibus annulorum elasticorum\", pubblicato postumo in \"Opera postuma mathematica et physica\", vol. II (1862) e databile forse al 1727, Euler analizza l'oscillazione di un anello elastico e introduce una descrizione quantitativa della risposta elastica del materiale in termini di filamenti che si oppongono alla deformazione. Letto retrospettivamente, questo testo è stato considerato da alcuni storici come una prima formulazione di concetti riconducibili al moderno modulo elastico."
+    },
+    {
+      "date": "1782",
+      "label": "Giordano Riccati determina\nrapporti sperimentali\ntra moduli elastici",
+      "note": "Nel lavoro \"Delle vibrazioni sonore dei cilindri\" (Memorie di Matematica e Fisica della Società Italiana, t. 1, pp. 444-525, 1782), Riccati determina sperimentalmente il rapporto tra i moduli elastici di acciaio e ottone: è uno dei primi risultati quantitativi riconducibili all'idea moderna di modulo di Young, anticipando così Young di ben 25 anni."
+    },
+    {
+      "date": "1807",
+      "label": "Thomas Young introduce il concetto\ndi \"modulus of elasticity\"",
+      "note": "Nel primo volume di \"A Course of Lectures on Natural Philosophy and the Mechanical Arts\", Young introduce il concetto di modulo elastico, ma non ancora nel senso moderno di E = σ/ε: nella sua trattazione riportata nella Lecture XIII, il modulo ha le dimensioni di una forza (\"weight of a certain column\")."
+    },
+    {
+      "date": "1822",
+      "label": "Augustin-Louis Cauchy formalizza\nil concetto di sforzo nel continuo",
+      "note": "Nella memoria letta all'Académie des Sciences il 30 settembre 1822, di cui apparve nel 1823 il lungo abstract \"Recherches sur l'équilibre et le mouvement intérieur des corps solides ou fluides, élastiques ou non élastiques\", Cauchy formula in forma generale il concetto di sforzo nel continuo. La trattazione fu poi sviluppata ulteriormente in \"Sur les équations qui expriment les conditions d'équilibre, ou les lois du mouvement intérieur d'un corps solide, élastique, ou non élastique\", Exercices de Mathématiques, 3 (1828); rist. in Œuvres complètes, sér. 2, t. 8, pp. 195-226."
+    },
+    {
+      "date": "1826",
+      "label": "Claude-Louis Navier attribuisce a E\nil significato moderno\ndel modulo elastico",
+      "note": "Nel \"Résumé des leçons données à l'École royale des ponts et chaussées\" (1826), Navier definisce la quantità E come il rapporto tra il carico applicato per unità di sezione e la corrispondente variazione relativa di lunghezza del corpo. La sua trattazione attribuisce così a E il significato moderno del modulo elastico longitudinale, cioè del rapporto tra sforzo e deformazione, con dimensioni di sforzo."
+    },
+    {
+      "date": "1878",
+      "label": "William Thomson (Lord Kelvin) usa\nesplicitamente l'espressione\n\"Young's modulus\"",
+      "note": "Nella voce \"Elasticity\" dell'Encyclopaedia Britannica, 9ª edizione (1878), William Thomson, in seguito noto come Lord Kelvin, usa esplicitamente l'espressione \"Young's Modulus\" nell'articolo \"Elasticity and Heat\". Questa sembra essere la più antica attestazione diretta su fonte primaria."
+    }
+  ]
+}

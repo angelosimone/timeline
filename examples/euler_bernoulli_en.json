@@ -1,0 +1,58 @@
+{
+  "config": {
+    "title": "The Euler-Bernoulli beam",
+    "chart_width": 13.0
+  },
+  "events": [
+    {
+      "date": "1490-1499",
+      "label": "Leonardo's drawings\nin the Codex Madrid I",
+      "note": "An important precursor: in the manuscripts of the Codex Madrid I, Leonardo records observations on mechanics and strength, but does not yet arrive at a complete theory of beams."
+    },
+    {
+      "date": "1492",
+      "label": "Columbus reaches America",
+      "note": "External chronological reference, included only as a time anchor to show how old the earliest studies in mechanics are."
+    },
+    {
+      "date": "1638",
+      "label": "Galileo's experiments",
+      "note": "Galileo studies the strength of rods and the fracture of solid bodies: one of the first steps towards a theory of bending, although still based on incorrect assumptions."
+    },
+    {
+      "date": "1705",
+      "label": "Jakob Bernoulli:\ncurvature proportional to M",
+      "note": "In his final work of 1705 he proposes that the curvature of the deformed beam is proportional to the bending moment."
+    },
+    {
+      "date": "1742",
+      "label": "Daniel Bernoulli\nsuggests the energy\napproach to Euler",
+      "note": "In a letter of 1742, Daniel Bernoulli suggests to Euler that the elastic curve be treated by means of a strain energy."
+    },
+    {
+      "date": "1744",
+      "label": "Euler: correct equation\nof the elastic curve",
+      "note": "Euler develops the mathematical theory of the elastic curve and introduces the strain energy per unit length, proportional to the square of the curvature."
+    },
+    {
+      "date": "1751",
+      "label": "Daniel Bernoulli:\ntransverse vibrations\nof beams",
+      "note": "The Bernoulli-Euler theory is also applied to the transverse vibrations of beams."
+    },
+    {
+      "date": "1826",
+      "label": "Navier: correct theory\nof bending",
+      "note": "Navier develops the modern engineering analysis of beams, computing forces and deflections for various supports and load cases."
+    },
+    {
+      "date": "1855",
+      "label": "de Saint-Venant:\nshear effects\nin bending",
+      "note": "His mature contributions on bending and torsion belong mainly to the 1850s; this is where the refinement of the classical theory belongs."
+    },
+    {
+      "date": "1921",
+      "label": "Timoshenko beam\n(includes shear)",
+      "note": "Conventional date of the theory that includes shear deformation; historically, a first formulation can be traced back to 1916."
+    }
+  ]
+}

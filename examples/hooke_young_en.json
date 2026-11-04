@@ -1,0 +1,53 @@
+{
+  "config": {
+    "title": "From Hooke's law to Young's modulus",
+    "chart_width": 13.0
+  },
+  "events": [
+    {
+      "date": "1660",
+      "label": "Robert Hooke dates his discovery\nof the law to 1660",
+      "note": "In \"De Potentia Restitutiva\" (1678), Hooke writes that it had been \"about eighteen years\" since he discovered the elastic law through experiments on springs and wires; he adds that two years earlier he had printed the anagram \"ceiiinosssttuu\" at the end of his book \"A Description of Helioscopes, and Some Other Instruments\"."
+    },
+    {
+      "date": "1676",
+      "label": "Hooke publishes\nthe law as\nan anagram",
+      "note": "The anagram \"ceiiinosssttuu\" served to establish priority for the discovery before its full publication."
+    },
+    {
+      "date": "1678",
+      "label": "Hooke states explicitly\n\"ut tensio, sic vis\"",
+      "note": "Explicit publication of the principle \"as the extension, so the force\", the historical core of Hooke's law."
+    },
+    {
+      "date": "1727",
+      "label": "Leonhard Euler develops an early\nmechanical-geometric treatment\nof elasticity",
+      "note": "Although the linear relation between applied force and elongation had already been stated by Hooke for specific objects, Euler's contribution is an important forerunner of the later idea of an elastic modulus. In the manuscript \"De oscillationibus annulorum elasticorum\", published posthumously in \"Opera postuma mathematica et physica\", vol. II (1862), and possibly dating from 1727, Euler analyses the oscillation of an elastic ring and gives a quantitative description of the elastic response of the material in terms of fibres that resist deformation. Read in retrospect, some historians regard this text as an early formulation of ideas related to the modern elastic modulus."
+    },
+    {
+      "date": "1782",
+      "label": "Giordano Riccati measures\nratios between\nelastic moduli",
+      "note": "In \"Delle vibrazioni sonore dei cilindri\" (Memorie di Matematica e Fisica della Società Italiana, vol. 1, pp. 444-525, 1782), Riccati determines experimentally the ratio between the elastic moduli of steel and brass: one of the first quantitative results related to the modern idea of Young's modulus, anticipating Young by a good 25 years."
+    },
+    {
+      "date": "1807",
+      "label": "Thomas Young introduces the\n\"modulus of elasticity\"",
+      "note": "In the first volume of \"A Course of Lectures on Natural Philosophy and the Mechanical Arts\", Young introduces the elastic modulus, but not yet in the modern sense of E = σ/ε: in his treatment in Lecture XIII the modulus has the dimensions of a force (\"weight of a certain column\")."
+    },
+    {
+      "date": "1822",
+      "label": "Augustin-Louis Cauchy formalises\nthe concept of stress in a continuum",
+      "note": "In the memoir read at the Académie des Sciences on 30 September 1822, whose long abstract \"Recherches sur l'équilibre et le mouvement intérieur des corps solides ou fluides, élastiques ou non élastiques\" appeared in 1823, Cauchy formulates the concept of stress in a continuum in general form. The treatment was further developed in \"Sur les équations qui expriment les conditions d'équilibre, ou les lois du mouvement intérieur d'un corps solide, élastique, ou non élastique\", Exercices de Mathématiques, 3 (1828); repr. in Œuvres complètes, sér. 2, t. 8, pp. 195-226."
+    },
+    {
+      "date": "1826",
+      "label": "Claude-Louis Navier gives E\nthe modern meaning\nof elastic modulus",
+      "note": "In the \"Résumé des leçons données à l'École royale des ponts et chaussées\" (1826), Navier defines the quantity E as the ratio between the load per unit cross-section and the corresponding relative change in length of the body. His treatment thus gives E the modern meaning of the longitudinal elastic modulus, i.e. the ratio between stress and strain, with the dimensions of stress."
+    },
+    {
+      "date": "1878",
+      "label": "William Thomson (Lord Kelvin)\nexplicitly uses the expression\n\"Young's modulus\"",
+      "note": "In the entry \"Elasticity\" of the Encyclopaedia Britannica, 9th edition (1878), William Thomson, later known as Lord Kelvin, explicitly uses the expression \"Young's Modulus\" in the article \"Elasticity and Heat\". This appears to be the earliest direct attestation in a primary source."
+    }
+  ]
+}
