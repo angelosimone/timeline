@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23961870.svg)](https://doi.org/10.5281/zenodo.23961870)
+
 # timeline
 
 Annotated timeline charts from a JSON file: a time axis, one label per event,
