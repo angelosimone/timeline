@@ -134,7 +134,7 @@ accepted. The old layout tuning keys (`min_axis_distance`, `label_distance`,
 
 ## History and credits
 
-Author: Angelo Simone (Università degli Studi di Padova).
+Author: Angelo Simone (University of Padua).
 
 - **v0** (before April 2026): one script per timeline, with the data in the
   code. Started from the CoderzColumn tutorial

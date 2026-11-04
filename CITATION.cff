@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "timeline: annotated timeline charts from JSON with an overlap-free layout"
+abstract: >-
+  A small Python tool that draws annotated timeline charts from a JSON file:
+  a time axis, one label per event and an optional list of notes. Label
+  placement is optimised so that texts never overlap and connectors never
+  cross labels; the figure size adapts to the content and the final drawing
+  is checked automatically. Output in PNG, PDF or SVG via matplotlib.
+authors:
+  - family-names: Simone
+    given-names: Angelo
+    affiliation: "University of Padua"
+    orcid: "https://orcid.org/0000-0001-9726-0068"
+version: "2.0"
+date-released: "2026-11-04"
+license: MIT
+repository-code: "https://github.com/angelosimone/timeline"
+keywords:
+  - timeline
+  - matplotlib
+  - data visualization
+  - scientific figures
+  - history of science

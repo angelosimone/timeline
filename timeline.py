@@ -36,7 +36,7 @@ the content.
 
 Author and history
 ------------------
-Angelo Simone (Università degli Studi di Padova). MIT License, see LICENSE.
+Angelo Simone (University of Padua). MIT License, see LICENSE.
 
   * v0 (before April 2026): one script per timeline, data in the code;
     started from the CoderzColumn tutorial "Timeline using Matplotlib"
