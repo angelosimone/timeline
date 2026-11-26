@@ -7,7 +7,7 @@
     {
       "date": "1490-1499",
       "label": "Disegni di Leonardo\ndal Codex Madrid I",
-      "note": "Precursore importante: Leonardo annota osservazioni di meccanica e resistenza nei manoscritti del Codex Madrid I, ma non arriva ancora a una teoria completa della trave."
+      "note": "Precursore importante: Leonardo annota osservazioni di meccanica e resistenza nei manoscritti del Codex Madrid I, ma non arriva ancora a una teoria completa della trave. Il codice è stato ritrovato alla Biblioteca Nacional di Madrid nel 1965; la scoperta è stata annunciata nel 1967."
     },
     {
       "date": "1492",
@@ -16,43 +16,43 @@
     },
     {
       "date": "1638",
-      "label": "Esperimenti di Galileo",
-      "note": "Galileo studia la resistenza delle aste e la rottura dei corpi solidi: è uno dei primi passi verso una teoria della flessione, anche se con ipotesi ancora non corrette."
+      "label": "Galileo: Discorsi\nsu due nuove scienze",
+      "note": "Nei \"Discorsi e dimostrazioni matematiche intorno a due nuove scienze\", stampati a Leida nel 1638, Galileo studia la resistenza delle aste e la rottura dei corpi solidi: è uno dei primi passi verso una teoria della flessione, anche se con ipotesi ancora non corrette."
     },
     {
-      "date": "1705",
+      "date": "1694-1705",
       "label": "Jakob Bernoulli:\ncurvatura proporzionale a M",
-      "note": "Nel suo lavoro finale del 1705 propone che la curvatura della trave deformata sia proporzionale al momento flettente."
+      "note": "Assume che la curvatura della trave inflessa sia proporzionale al momento flettente. Una prima trattazione esce negli Acta Eruditorum nel 1694; la versione finale è nelle memorie dell'Accademia di Parigi del 1705, anno della sua morte."
     },
     {
       "date": "1742",
       "label": "Daniel Bernoulli\nsuggerisce a Eulero\nl'approccio energetico",
-      "note": "In una lettera del 1742 Daniel Bernoulli suggerisce a Eulero di trattare la curva elastica tramite un'energia di deformazione."
+      "note": "In una lettera del 20 ottobre 1742 Daniel Bernoulli suggerisce a Eulero di trovare la curva elastica rendendo minimo l'integrale del quadrato della curvatura: in termini odierni, un'energia di deformazione."
     },
     {
       "date": "1744",
       "label": "Eulero: equazione corretta\ndella linea elastica",
-      "note": "Eulero sviluppa matematicamente la teoria della linea elastica e introduce l'energia di deformazione per unità di lunghezza, proporzionale al quadrato della curvatura."
+      "note": "Nell'appendice \"De curvis elasticis\" del \"Methodus inveniendi lineas curvas\" (1744) Eulero segue il suggerimento di Daniel Bernoulli, ottiene l'equazione della linea elastica e ne classifica le forme; nella stessa appendice c'è il carico critico di una colonna."
     },
     {
       "date": "1751",
       "label": "Daniel Bernoulli:\nvibrazioni trasversali\ndelle travi",
-      "note": "La teoria di Bernoulli-Eulero viene applicata anche alle vibrazioni trasversali delle travi."
+      "note": "\"De vibrationibus et sono laminarum elasticarum\", nei Commentarii dell'Accademia di San Pietroburgo, vol. 13 (per il 1741-43), stampato nel 1751: la teoria di Bernoulli-Eulero viene applicata alle vibrazioni trasversali delle aste. Bernoulli aveva scritto a Eulero dell'asta vibrante già nel 1735."
     },
     {
       "date": "1826",
       "label": "Navier: teoria corretta\ndella flessione",
-      "note": "Navier sviluppa l'analisi tecnica moderna delle travi, con il calcolo di forze e frecce per diversi vincoli e schemi statici."
+      "note": "Nel \"Résumé des leçons données à l'École des ponts et chaussées\" (1826) Navier sviluppa l'analisi tecnica moderna delle travi, con il calcolo di forze e frecce per diversi vincoli e schemi statici."
     },
     {
-      "date": "1855",
+      "date": "1856",
       "label": "de Saint-Venant:\neffetti del taglio\nnella flessione",
-      "note": "I suoi contributi maturi sulla flessione e sulla torsione appartengono soprattutto agli anni Cinquanta dell'Ottocento; qui si colloca il perfezionamento rispetto alla teoria classica."
+      "note": "\"Mémoire sur la flexion des prismes\" (Journal de Mathématiques Pures et Appliquées, 1856): soluzione esatta delle equazioni dell'elasticità per un prisma inflesso, con le tensioni tangenziali e l'ingobbamento delle sezioni. Segue la memoria sulla torsione, letta all'Académie des Sciences nel 1853 e stampata nel 1855, dove è introdotto il metodo semi-inverso."
     },
     {
       "date": "1921",
       "label": "Trave di Timoshenko\n(include il taglio)",
-      "note": "Data convenzionale della teoria che include la deformabilità a taglio; storicamente, una prima formulazione può essere fatta risalire già al 1916."
+      "note": "Data del noto articolo sul Philosophical Magazine. La teoria, che include la deformabilità a taglio e l'inerzia rotazionale, è stata sviluppata con Paul Ehrenfest nel 1912-1913 e stampata per la prima volta nel testo russo di Timoshenko sulla teoria dell'elasticità (1916)."
     }
   ]
 }

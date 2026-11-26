@@ -149,9 +149,48 @@ Author: Angelo Simone (University of Padua).
   vertical orientation, uniform note spacing, layout self-check, and a
   command-line interface. Examples in English and Italian, plus the Leaning
   Tower showcase.
+- **v2.0.1** (26 November 2026): dates and sources of the two
+  history-of-mechanics examples checked and corrected; list of sources added.
+  No change to the code.
 
 Sources for the Leaning Tower example: Wikipedia, *Leaning Tower of Pisa*;
 PBS NOVA, *Interventions* (pbs.org/wgbh/nova/pisa).
+
+Sources for the two history-of-mechanics examples (dates checked in
+November 2026):
+
+- S. P. Timoshenko, *History of Strength of Materials*, McGraw-Hill, 1953
+  (Galileo, Jakob Bernoulli, Euler, Navier, Jourawski, Saint-Venant).
+- C. Truesdell, *The Rational Mechanics of Flexible or Elastic Bodies,
+  1638-1788*, in L. Euler, *Opera Omnia*, ser. 2, vol. 11, part 2, 1960
+  (Euler's modulus of extension of 1727: table of contents only).
+- Daniel Bernoulli to Euler, 20 October 1742, letter XXVI in P. H. Fuss,
+  *Correspondance mathématique et physique*, vol. 2, St Petersburg, 1843.
+- D. Bernoulli, "De vibrationibus et sono laminarum elasticarum",
+  *Commentarii Acad. Sci. Imp. Petropolitanae* 13 (1741-43), printed 1751,
+  pp. 105-120.
+- A. Barré de Saint-Venant, "Mémoire sur la torsion des prismes", *Mémoires
+  présentés par divers savants à l'Académie des Sciences* 14 (1855),
+  pp. 233-560 (read on 13 June 1853); "Mémoire sur la flexion des prismes",
+  *Journal de Mathématiques Pures et Appliquées*, ser. 2, 1 (1856), pp. 89-189.
+- I. Elishakoff, "Who developed the so-called Timoshenko beam theory?",
+  *Mathematics and Mechanics of Solids* 25 (2020), pp. 97-116.
+- S. P. Timoshenko, "On the correction for shear of the differential equation
+  for transverse vibrations of prismatic bars", *Philosophical Magazine* 41
+  (1921), pp. 744-746.
+- A. N. Beal, "Thomas Young and the theory of structures 1807-2007",
+  *The Structural Engineer*, 2007 (Young's definition; Navier's of 1826).
+- W. Thomson, "Elasticity", *Encyclopaedia Britannica*, 9th ed., 1878
+  (text read in the reprint in his *Mathematical and Physical Papers*, vol. 3).
+- *Oxford English Dictionary*, entry "Young's modulus, n." (read on
+  26 November 2026): earliest quotation 1857, J. P. Nichol, *A Cyclopaedia of
+  the Physical Sciences*, p. 226; second quotation 1865, *Proceedings of the
+  Royal Society* 14, p. 296 (W. Thomson, "On the elasticity and viscosity of
+  metals", pp. 289-297).
+- Wikipedia, *Codex Madrid (Leonardo)*, *Giordano Riccati*.
+
+Still to check on a primary source: Riccati's 1782 memoir (bibliographic data
+taken from Wikipedia).
 
 ## License
 

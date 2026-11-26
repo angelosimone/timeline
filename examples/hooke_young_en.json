@@ -45,9 +45,9 @@
       "note": "In the \"Résumé des leçons données à l'École royale des ponts et chaussées\" (1826), Navier defines the quantity E as the ratio between the load per unit cross-section and the corresponding relative change in length of the body. His treatment thus gives E the modern meaning of the longitudinal elastic modulus, i.e. the ratio between stress and strain, with the dimensions of stress."
     },
     {
-      "date": "1878",
-      "label": "William Thomson (Lord Kelvin)\nexplicitly uses the expression\n\"Young's modulus\"",
-      "note": "In the entry \"Elasticity\" of the Encyclopaedia Britannica, 9th edition (1878), William Thomson, later known as Lord Kelvin, explicitly uses the expression \"Young's Modulus\" in the article \"Elasticity and Heat\". This appears to be the earliest direct attestation in a primary source."
+      "date": "1857",
+      "label": "First attested use of\nthe name \"Young's modulus\"",
+      "note": "The earliest quotation for \"Young's modulus\" in the Oxford English Dictionary is from 1857: J. P. Nichol's \"A Cyclopaedia of the Physical Sciences\", p. 226. The next one is from 1865, in the Proceedings of the Royal Society, vol. 14, p. 296: a page of William Thomson's paper \"On the elasticity and viscosity of metals\". Thomson, later Lord Kelvin, also has a section headed \"Young's Modulus\" in the article \"Elasticity\" of the Encyclopaedia Britannica, 9th edition (1878)."
     }
   ]
 }

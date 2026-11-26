@@ -13,8 +13,8 @@ authors:
     given-names: Angelo
     affiliation: "University of Padua"
     orcid: "https://orcid.org/0000-0001-9726-0068"
-version: "2.0"
-date-released: "2026-11-04"
+version: "2.0.1"
+date-released: "2026-11-26"
 license: MIT
 repository-code: "https://github.com/angelosimone/timeline"
 doi: 10.5281/zenodo.23961870

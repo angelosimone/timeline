@@ -7,7 +7,7 @@
     {
       "date": "1490-1499",
       "label": "Leonardo's drawings\nin the Codex Madrid I",
-      "note": "An important precursor: in the manuscripts of the Codex Madrid I, Leonardo records observations on mechanics and strength, but does not yet arrive at a complete theory of beams."
+      "note": "An important precursor: in the manuscripts of the Codex Madrid I, Leonardo records observations on mechanics and strength, but does not yet arrive at a complete theory of beams. The codex was found in the Biblioteca Nacional in Madrid in 1965; the discovery was announced in 1967."
     },
     {
       "date": "1492",
@@ -16,43 +16,43 @@
     },
     {
       "date": "1638",
-      "label": "Galileo's experiments",
-      "note": "Galileo studies the strength of rods and the fracture of solid bodies: one of the first steps towards a theory of bending, although still based on incorrect assumptions."
+      "label": "Galileo:\nTwo New Sciences",
+      "note": "In the \"Discorsi e dimostrazioni matematiche intorno a due nuove scienze\", printed in Leiden in 1638, Galileo studies the strength of rods and the fracture of solid bodies: one of the first steps towards a theory of bending, although still based on incorrect assumptions."
     },
     {
-      "date": "1705",
+      "date": "1694-1705",
       "label": "Jakob Bernoulli:\ncurvature proportional to M",
-      "note": "In his final work of 1705 he proposes that the curvature of the deformed beam is proportional to the bending moment."
+      "note": "He assumes that the curvature of the bent bar is proportional to the bending moment. A first treatment appeared in the Acta Eruditorum in 1694; the final version is in the memoirs of the Paris Academy for 1705, the year of his death."
     },
     {
       "date": "1742",
       "label": "Daniel Bernoulli\nsuggests the energy\napproach to Euler",
-      "note": "In a letter of 1742, Daniel Bernoulli suggests to Euler that the elastic curve be treated by means of a strain energy."
+      "note": "In a letter of 20 October 1742, Daniel Bernoulli suggests to Euler that the elastic curve be found by minimising the integral of the squared curvature: in today's terms, a strain energy."
     },
     {
       "date": "1744",
       "label": "Euler: correct equation\nof the elastic curve",
-      "note": "Euler develops the mathematical theory of the elastic curve and introduces the strain energy per unit length, proportional to the square of the curvature."
+      "note": "In the appendix \"De curvis elasticis\" of the \"Methodus inveniendi lineas curvas\" (1744), Euler follows Daniel Bernoulli's suggestion, obtains the equation of the elastic curve and classifies its shapes; the same appendix contains the buckling load of a column."
     },
     {
       "date": "1751",
       "label": "Daniel Bernoulli:\ntransverse vibrations\nof beams",
-      "note": "The Bernoulli-Euler theory is also applied to the transverse vibrations of beams."
+      "note": "\"De vibrationibus et sono laminarum elasticarum\", in the Commentarii of the St Petersburg Academy, vol. 13 (for 1741-43), printed in 1751: the Bernoulli-Euler theory is applied to the transverse vibrations of bars. Bernoulli had written to Euler about the vibrating rod as early as 1735."
     },
     {
       "date": "1826",
       "label": "Navier: correct theory\nof bending",
-      "note": "Navier develops the modern engineering analysis of beams, computing forces and deflections for various supports and load cases."
+      "note": "In the \"Résumé des leçons données à l'École des ponts et chaussées\" (1826), Navier develops the modern engineering analysis of beams, computing forces and deflections for various supports and load cases."
     },
     {
-      "date": "1855",
+      "date": "1856",
       "label": "de Saint-Venant:\nshear effects\nin bending",
-      "note": "His mature contributions on bending and torsion belong mainly to the 1850s; this is where the refinement of the classical theory belongs."
+      "note": "\"Mémoire sur la flexion des prismes\" (Journal de Mathématiques Pures et Appliquées, 1856): an exact solution of the equations of elasticity for a bent prism, with the shear stresses and the warping of the cross-sections. It follows the memoir on torsion, read at the Académie des Sciences in 1853 and printed in 1855, where the semi-inverse method is introduced."
     },
     {
       "date": "1921",
       "label": "Timoshenko beam\n(includes shear)",
-      "note": "Conventional date of the theory that includes shear deformation; historically, a first formulation can be traced back to 1916."
+      "note": "Date of the well-known paper in the Philosophical Magazine. The theory, which includes shear deformation and rotary inertia, was developed with Paul Ehrenfest in 1912-1913 and first printed in Timoshenko's Russian textbook on elasticity (1916)."
     }
   ]
 }

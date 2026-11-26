@@ -48,6 +48,8 @@ Angelo Simone (University of Padua). MIT License, see LICENSE.
     overlaps (bent connectors when needed), automatic figure height and axis
     ticks, date ranges, merged same-date events, vertical orientation, uniform
     note spacing, layout self-check, command-line interface.
+  * v2.0.1 (26 November 2026): dates and sources of the history-of-mechanics
+    examples corrected; no change to the code.
 
 Requires Python >= 3.9 and matplotlib >= 3.5.
 """
@@ -74,7 +76,7 @@ from matplotlib import cbook  # noqa: E402
 from matplotlib.font_manager import FontProperties  # noqa: E402
 from matplotlib.patches import Rectangle  # noqa: E402
 
-__version__ = "2.0"
+__version__ = "2.0.1"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 1. CONFIGURATION
